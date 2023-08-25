@@ -1650,7 +1650,7 @@
     emojibase "^15.0.0"
     emojibase-data "^15.0.0"
 
-"@matrix-org/matrix-sdk-crypto-wasm@^1.2.1":
+"@matrix-org/matrix-sdk-crypto-wasm@^1.2.0":
   version "1.2.1"
   resolved "https://registry.yarnpkg.com/@matrix-org/matrix-sdk-crypto-wasm/-/matrix-sdk-crypto-wasm-1.2.1.tgz#5b546c8a0e53b614f10b77b3b649818aed9d0db1"
   integrity sha512-DCb7Q83PCQK0uav5vB3KNV/hJPlxAhT/ddar+VHz2kC39hMLKGzWYVhprpLYVcavaE/6OX+Q/xFkAoV/3QtUHQ==
@@ -8794,7 +8794,7 @@ matrix-events-sdk@0.0.1:
   resolved "https://codeload.github.com/matrix-org/matrix-js-sdk/tar.gz/c5245a887b677d3e943a74b469dad43a1d962738"
   dependencies:
     "@babel/runtime" "^7.12.5"
-    "@matrix-org/matrix-sdk-crypto-wasm" "^1.2.1"
+    "@matrix-org/matrix-sdk-crypto-wasm" "^1.2.0"
     another-json "^0.2.0"
     bs58 "^5.0.0"
     content-type "^1.0.4"
@@ -8815,9 +8815,9 @@ matrix-mock-request@^2.5.0:
   dependencies:
     expect "^28.1.0"
 
-"matrix-react-sdk@https://github.com/pectoraux/matrix-react-sdk2#develop":
+"matrix-react-sdk@github:pectoraux/matrix-react-sdk#develop":
   version "3.78.0"
-  resolved "https://github.com/pectoraux/matrix-react-sdk2#b935562b2fbc741f2bf91d70a4fce66218347db1"
+  resolved "https://codeload.github.com/pectoraux/matrix-react-sdk/tar.gz/b935562b2fbc741f2bf91d70a4fce66218347db1"
   dependencies:
     "@babel/runtime" "^7.12.5"
     "@matrix-org/analytics-events" "^0.7.0"
